@@ -1,0 +1,52 @@
+p.solid{
+    border-style: solid;
+}
+
+
+h1{
+    color:brown;
+    background-color: coral;
+}
+
+
+h2{
+    color:antiquewhite;
+    background-color: cyan;
+}
+
+#parrafo{
+    text-align: end;
+}
+
+ /* comentario de otra forma */
+
+.seccion1{
+    background-color: rgb(83, 16, 16);
+    color: rgb(58, 14, 100);
+}
+
+.seccion3{
+    background-color: rgb(83, 16, 16);
+    color: rgb(58, 14, 100);
+}
+
+p#parrafoSeleccionado{
+    color:blueviolet;
+    background-color: darksalmon;
+}
+
+.stylo-fuente-distinto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.seccion3.stylo-fuente-distinto{
+    text-align: right;
+}
+
+body{
+    /* background: linear-gradient(90deg); color: azure; color: blue 100%; */
+
+    background: color(srgb red green blue);
+
+
+}
